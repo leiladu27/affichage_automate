@@ -1,0 +1,6 @@
+etats: 0 1
+alphabet: a
+initial: 0
+final: 1
+transitions:
+0 a 1
