@@ -1,4 +1,4 @@
-def lecture (automate):
+def lire_automate_sur_fichier (automate):
     with open(f"automates/automate{automate}.txt","r") as f:
         a={} #dictionnaire de l'automate
         for ligne in f:
